@@ -45,10 +45,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=o1abek2012&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=ff6b6b&point=58a6ff&area=true&hide_border=true" />
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/o1abek2012/o1abek2012/output/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🏆 GitHub Trophies
 
