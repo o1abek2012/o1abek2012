@@ -65,10 +65,11 @@
 <div align="center">
 
 ```diff
++ say supercalifragilisticexpialidocious
 + I write clean, maintainable code
 + I love learning new technologies
 + I'm always up for a coding challenge
-+ Coffee is my debugging fuel ☕
++ Fusetea is my debugging fuel
 - I still sometimes forget semicolons in JavaScript 😅
 ```
 
@@ -81,7 +82,7 @@
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Otabek_777_2012)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otabekabduxalimov06@gmail.com)
 
 </div>
 
